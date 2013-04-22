@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/marcqualie/mongominify.git",
-                "reference": "643cb1b13a88a728598d6c93827acda0f89ce40d"
+                "reference": "5d996d58f26d2d44c159177214a2c5f516ac60c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/marcqualie/mongominify/zipball/643cb1b13a88a728598d6c93827acda0f89ce40d",
-                "reference": "643cb1b13a88a728598d6c93827acda0f89ce40d",
+                "url": "https://api.github.com/repos/marcqualie/mongominify/zipball/5d996d58f26d2d44c159177214a2c5f516ac60c9",
+                "reference": "5d996d58f26d2d44c159177214a2c5f516ac60c9",
                 "shasum": ""
             },
             "require": {
@@ -44,7 +44,7 @@
                 "library",
                 "mongodb"
             ],
-            "time": "2013-04-21 18:59:38"
+            "time": "2013-04-22 12:21:06"
         }
     ],
     "packages-dev": [
